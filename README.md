@@ -5,6 +5,8 @@ by [Patterner](https://patternermusic.com/).
 
 Copyright © 2023 [Minor Drama Recordings](https://minordrama.digital/).
 
+Original tempo: 127bpm.
+
 ## License
 
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International
